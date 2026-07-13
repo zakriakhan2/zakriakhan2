@@ -15,15 +15,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=flat-square&logo=LinkedIn)](https://linkedin.com) [![Gmail](https://img.shields.io/badge/Gmail-m.zakriakhann%40gmail.com-ea4335?style=flat-square&logo=Gmail)](mailto:m.zakriakhann@gmail.com) 
 
-## 👤 About Me
+## About Me
 
-> **`SYSTEM_STATUS: ACTIVE`**
-> 
-> 🧠 **Core Objective** // Computer Engineering student bridging the gap between hardware architecture and low-level software optimization.
-> 
-> 🛠️ **Focus Area** // Analyzing the hardware-software interface, balancing digital logic design with modern software engineering paradigms.
-> 
-> 🚀 **Specialization** // Dedicated to advanced low-level processor design, rigorous RTL analysis, workflow automation, and full-stack systems architecture.
+* 🎓 Computer Engineering student.
+* 🛠️ Focused on the hardware-software interface, balancing digital logic design with software engineering.
+* 🚀 Passionate about low-level processor design, RTL analysis, automation, and full-stack systems architecture.
 ## 🛠️ Technical Stack
 
 ### 🔒 Hardware Design & Verification
