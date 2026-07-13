@@ -1,4 +1,5 @@
-# 🚀 Run: initialize_profile
+# 🟢 Status: Active
+# Muhammad Zakria Khan
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=38BDF8&width=500&vCenter=true&lines=Muhammad+Zakria+Khan;Computer+Engineer;RTL+Analysis+%2B+Systems" alt="Typing SVG" />
 
 ---
