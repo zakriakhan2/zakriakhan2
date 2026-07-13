@@ -45,18 +45,14 @@
 
 ---
 
-## 🤖 System Hardware & Software Repositories
+## 📂 Featured Projects
 
-| [0x01] Core Processing Node | System Logs & Verification Engine |
-| :--- | :--- |
-| **`RISC-V RV32I Instruction Decoder`**<br><br>💻 Automated C-based decoder parsing raw RV32I machine code into assembly. Features dynamic memory scaling, hardware-mirrored bit extraction, and strict zero-leak SQA validation.<br><br><sub>`TAGS: C // GNU_Make // Linux_Utilities`</sub> | **`RISC-V Log Analyzer`**<br><br>📊 Bash-based automation tool that parses simulation logs, extracts runtime execution statistics, detects structural errors, and generates summary tracking reports.<br><br><sub>`TAGS: Bash // Linux_Utilities // AWK_Grep`</sub> |
-
-| [0x02] Hardware Architecture | [0x03] Educational Parse Engines |
-| :--- | :--- |
-| **`32-bit Single-Cycle Processor`**<br><br>⚙️ Modular RV32I single-cycle processor core featuring instruction decoding, ALU operations, branching logic, register file, and memory handling implemented completely from scratch.<br><br><sub>`TAGS: Verilog_HDL // Xilinx_Vivado // RISC-V`</sub> | **`SQL-to-Relational Algebra Visualizer`**<br><br>🗄️ Recursive parsing engine that dynamically translates complex SQL queries into formal relational algebra execution trees with an active backend design.<br><br><sub>`TAGS: Python // PostgreSQL // Tkinter`</sub> |
-
-| [0x04] Autonomous Embedded Systems |
-| :--- |
-| **`Autonomous Line Following Robot`**<br><br>🛰️ Hardware tracking architecture using an Arduino platform, IR sensor array arrays, and low-level embedded motor tracking control logic.<br><br><sub>`TAGS: Arduino // Embedded_C // Control_Systems`</sub> |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [RISC-V RV32I Instruction Decoder](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) | Automated C-based decoder parsing raw RV32I machine code into assembly. Serves as a CPU simulator front-end with dynamic memory scaling, hardware-mirrored bit extraction, and strict zero-leak SQA validation. | C, GNU Make, Linux Utilities |
+| [RISC-V Log Analyzer](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) | Bash-based automation tool that parses RISC-V simulation logs, extracts execution statistics, detects errors, and generates structured summary reports. | Bash, GNU Make, Linux Utilities |
+| [32-bit Single-Cycle RISC-V Processor](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) | Modular RV32I single-cycle processor featuring instruction decoding, ALU operations, branching logic, register file, and memory handling implemented from scratch. | Verilog, RISC-V, Computer Architecture |
+| [SQL-to-Relational Algebra Visualizer](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) | Engineered a recursive parsing engine that dynamically translates complex SQL queries into interactive relational algebra execution trees with a PostgreSQL backend. | Python, Tkinter, PostgreSQL |
+| [Autonomous Line Following Robot](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) | Constructed a hardware tracking system using an Arduino UNO, IR sensors, and low-level embedded motor control logic. | Arduino, Embedded C, Hardware Control |
 
 ---
