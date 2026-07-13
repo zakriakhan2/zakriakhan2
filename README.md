@@ -1,5 +1,12 @@
-# 🟢 Status: Active
-# Muhammad Zakria Khan
+<div align="center">
+  <kbd>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=500&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%E2%9E%A4+root%40mzk_core%3A~%23+init+profile...;%E2%9E%A4+MUHAMMAD+ZAKRIA+KHAN;%E2%9E%A4+RTL+ANALYSIS+%7C+SYSTEMS+ENG" alt="Terminal Typing Animation" />
+  </kbd>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=80&section=header&text=%20&theme=dark" opacity="0.3" alt="Wave Divider" />
+</p>
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=38BDF8&width=500&vCenter=true&lines=Muhammad+Zakria+Khan;Computer+Engineer;RTL+Analysis+%2B+Systems" alt="Typing SVG" />
 
 ---
