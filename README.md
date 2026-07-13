@@ -15,20 +15,18 @@
 
 ---
 
+---
+
 ## Technical Stack
 
-### 🔒 Hardware & Embedded Systems
-* **HDLs & Frameworks:** Verilog HDL, RTL Analysis, Assembly
-* **Hardware & FPGAs:** FPGA Synthesis (Xilinx Vivado), Arduino, ESP32
+### 🔒 Hardware Design & Verification
+![](https://img.shields.io/badge/Verilog-8B5CF6?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=Espressif&logoColor=white)
 
-### 💻 Software & Scripting
-* **Languages:** C, C++, C#, Python, JavaScript
-* **Web:** HTML, CSS
-* **Databases:** PostgreSQL
+### 💻 Software & Systems Programming
+![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tools & Environments
-* **Environment:** Linux, Bash (grep, awk), Make
-* **Version Control:** Git
+### 🛠️ Infrastructure & Tools
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/GNU_Make-000000?style=for-the-badge&logo=gnu&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
