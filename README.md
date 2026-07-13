@@ -1,4 +1,4 @@
-# <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e76a8&style=flat" align="right" alt="Profile views" />
+align="right" alt="Profile views" />
 
 # $ whoami
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=38BDF8&width=500&vCenter=true&lines=Muhammad+Zakria+Khan;Computer+Engineer;RTL+Analysis+%2B+Systems" alt="Typing SVG" />
