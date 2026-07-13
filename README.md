@@ -17,19 +17,11 @@
 
 ## 👤 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>🧠 <strong>Computer Engineering student</strong> passionate about bridging the gap between hardware architecture and low-level software optimization.</p>
-      <p>🛠️ Focused deeply on the <strong>hardware-software interface</strong>, balancing digital logic design with modern software engineering paradigms.</p>
-      <p>🚀 Dedicated to advanced <strong>low-level processor design</strong>, rigorous RTL analysis, workflow automation, and full-stack systems architecture.</p>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+🧠 **Computer Engineering student** passionate about bridging the gap between hardware architecture and low-level software optimization.
 
+🛠️ Focused deeply on the **hardware-software interface**, balancing digital logic design with modern software engineering paradigms.
+
+🚀 Dedicated to advanced **low-level processor design**, rigorous RTL analysis, workflow automation, and full-stack systems architecture.
 ---
 
 ## 🛠️ Technical Stack
