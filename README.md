@@ -1,11 +1,11 @@
 # <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e76a8&style=flat" align="right" alt="Profile views" />
 
 # $ whoami
-# Muhammad Zakria Khan
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=38BDF8&width=500&vCenter=true&lines=Muhammad+Zakria+Khan;Computer+Engineer;RTL+Analysis+%2B+Systems" alt="Typing SVG" />
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=flat-square&logo=LinkedIn)](YOUR_LINKEDIN_URL) [![Gmail](https://img.shields.io/badge/Gmail-m.zakriakhann%40gmail.com-ea4335?style=flat-square&logo=Gmail)](mailto:m.zakriakhann@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=flat-square&logo=LinkedIn)](https://linkedin.com) [![Gmail](https://img.shields.io/badge/Gmail-m.zakriakhann%40gmail.com-ea4335?style=flat-square&logo=Gmail)](mailto:m.zakriakhann@gmail.com) 
 
 ## About Me
 
@@ -24,7 +24,7 @@
 ### 💻 Software & Scripting
 * **Languages:** C, C++, C#, Python, JavaScript
 * **Web:** HTML, CSS
-* **Databases:** PostgreSQL, Relational Algebra execution modeling
+* **Databases:** PostgreSQL
 
 ### 🛠️ Tools & Environments
 * **Environment:** Linux, Bash (grep, awk), Make
