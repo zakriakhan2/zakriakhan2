@@ -17,13 +17,13 @@
 
 ## 👤 About Me
 
-🧠 **Computer Engineering student** passionate about bridging the gap between hardware architecture and low-level software optimization.
-
-🛠️ Focused deeply on the **hardware-software interface**, balancing digital logic design with modern software engineering paradigms.
-
-🚀 Dedicated to advanced **low-level processor design**, rigorous RTL analysis, workflow automation, and full-stack systems architecture.
----
-
+> **`SYSTEM_STATUS: ACTIVE`**
+> 
+> 🧠 **Core Objective** // Computer Engineering student bridging the gap between hardware architecture and low-level software optimization.
+> 
+> 🛠️ **Focus Area** // Analyzing the hardware-software interface, balancing digital logic design with modern software engineering paradigms.
+> 
+> 🚀 **Specialization** // Dedicated to advanced low-level processor design, rigorous RTL analysis, workflow automation, and full-stack systems architecture.
 ## 🛠️ Technical Stack
 
 ### 🔒 Hardware Design & Verification
