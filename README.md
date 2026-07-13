@@ -37,14 +37,13 @@
 
 ---
 
-## Featured Engineering Projects
+## 📂 Featured Projects
 
-* **Single-Cycle RISC-V Processor Core**
-  * Designed and implemented an RV32I processor core from scratch using Verilog and Xilinx Vivado.
-  * Developed an automated RISC-V Log Analyzer suite in Linux using Bash, grep, and awk scripts for test verification.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [RISC-V RV32I Instruction Decoder](https://github.com/zakriakhan2/riscv_decoder) | Automated C-based decoder parsing raw RV32I machine code into assembly. Serves as a CPU simulator front-end with dynamic memory scaling, hardware-mirrored bit extraction, and strict zero-leak SQA validation. | C, GNU Make, Linux Utilities |
+| [RISC-V Log Analyzer](https://github.com/zakriakhan2/riscv-log-analyzer) | Bash-based automation tool that parses RISC-V simulation logs, extracts execution statistics, detects errors, and generates structured summary reports. | Bash, GNU Make, Linux Utilities |
+| [32-bit Single-Cycle RISC-V Processor](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) | Modular RV32I single-cycle processor featuring instruction decoding, ALU operations, branching logic, register file, and memory handling implemented from scratch. | Verilog, RISC-V, Computer Architecture |
+| [SQL-to-Relational Algebra Visualizer](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) | Engineered a recursive parsing engine that dynamically translates complex SQL queries into interactive relational algebra execution trees with a PostgreSQL backend. | Python, Tkinter, PostgreSQL |
 
-* **SQL-to-Relational Algebra Visualizer**
-  * Engineered a recursive parsing engine in Python and Tkinter that translates complex SQL queries into interactive relational algebra execution trees with a PostgreSQL backend.
-
-* **Autonomous Line Following Robot**
-  * Constructed a hardware tracking system using an Arduino UNO, IR sensors, and low-level embedded motor control logic.
+---
