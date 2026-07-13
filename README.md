@@ -1,14 +1,16 @@
 <div align="center">
+  <sub><code>[ SYSTEM IDENTIFICATION: ACTIVE ]</code></sub>
+  <br />
   <kbd>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=500&color=00FF66&center=true&vCenter=true&width=700&height=70&lines=%E2%9E%A4+root%40mzk_core%3A~%23+init+profile...;%E2%9E%A4+MUHAMMAD+ZAKRIA+KHAN;%E2%9E%A4+RTL+ANALYSIS+%7C+SYSTEMS+ENG" alt="Terminal Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=750&height=80&lines=%5B%5B+INITIALIZING_CORE_LOGIC+%5D%5D;%E2%96%AE+MUHAMMAD+ZAKRIA+KHAN;%5B+SRC%3A+GIKI+%5D+%5B+DEPT%3A+COMP_ENG+%5D;%E2%9A%99%EF%B8%8F+RTL_ANALYSIS+%2F%2F+SYS_ENG" alt="Robotic Terminal Text" />
   </kbd>
+  <br />
+  <sub><code>// RUNNING: EM_CORE_VERIFICATION_ROUTINE</code></sub>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=80&section=header&text=%20&theme=dark" opacity="0.3" alt="Wave Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=15&section=header&text=%20" alt="Robotic Line Divider" />
 </p>
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=38BDF8&width=500&vCenter=true&lines=Muhammad+Zakria+Khan;Computer+Engineer;RTL+Analysis+%2B+Systems" alt="Typing SVG" />
-
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0e76a8?style=flat-square&logo=LinkedIn)](https://linkedin.com) [![Gmail](https://img.shields.io/badge/Gmail-m.zakriakhann%40gmail.com-ea4335?style=flat-square&logo=Gmail)](mailto:m.zakriakhann@gmail.com) 
